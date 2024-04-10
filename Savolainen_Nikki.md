@@ -1,8 +1,11 @@
-# Tourism INFO webpage
-info verkkosivu
+# Commissioned WebPage
+Art & Beauty center: company web page
 # Osoite: https://github.com/Falco-N/MyPageProject/
 # Tekniikat
 Ohjelmointikieli: JavaScript -> Python
 Taustajärjestelmä: Django
-# Muuta?
-vanhan sivun koodin muutos nykyiseen tasoon
+# Else?
+* company info
+* transfer to bookit.com to book appontments
+* buy/sell page
+* feedback +
